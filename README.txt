@@ -1,3 +1,3 @@
 Hello,World!
 I'm learning git!
-Well... I'm going to add sth.
+This is so fun to add sth new!!! I'll try again!
